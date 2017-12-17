@@ -1,0 +1,29 @@
+/* CSS Document */
+
+.free {width:1200px; height:466px; margin:0 auto; padding-top:47px; text-align:center;}
+.free h2,.vip div h2{font-size:30px; color:#000; font-family:"微软雅黑"; height:50px;}
+.free p{height:40px;}
+.free ul li{float:left;}
+.free ul .img-c{padding: 0 22px;}
+.vip{width:100%; background:url(../images/vip-bg_03.jpg) repeat-x top #F2F2F2;  overflow:hidden; text-align:center; padding-bottom:40px;}
+.vip .title{ width:1200px; text-align:center; margin:0 auto; padding-top:68px; position:relative;}
+.vip .title ul{ display:inline-block; height:78px;}
+.vip .title ul li{float:left; font-size:14px; color:#7B7F98; border:2px solid #5F6885; padding:8px 15px; border-radius:5px; margin-right:5px;}
+.vip .title ul .course{ background:#526DA2;}
+.vip .title ul .course a{color:#FFF;}
+.vip .title strong{ width:0; height:0; border-color:#6375A5 transparent transparent transparent; border-style:solid; border-width:6px; position:absolute; top:155px; left:406px;}
+.vip .content{width:1200px;  margin:0 auto; overflow:hidden; }
+.vip .content li{ width:385px; height:345px; float:left; margin-bottom:40px; border:#CCC 1px solid; }
+.vip .content li:hover{border:#FF6400 1px solid;}
+.vip .content .img-c{margin:0 19px;}
+.vip .content li .img{width:385px; height:197px; position:relative; background:url(../images/course_03.jpg);}
+.vip .content li .img span{ position:absolute; top:50%; margin-top:-38px; left:50%; margin-left:-38px;}
+.vip .content li .li-title {width:385px; font-family:"微软雅黑"; padding:0 10px; }
+.vip .content li .li-title .name{ line-height:50px; height:50px; color:#1B1A3A; font-size:20px;}
+.vip .content li .li-title .price{ line-height:50px; height:50px; color:#FF6400; font-size:16px; font-weight:bold; padding-left:70px;}
+.vip .content li p{ padding:0 10px; height:50px;}
+.vip .content li .look{padding:0 15px}
+.vip .content li .look p{ float:right; height:27px; line-height:27px;}
+.vip .content li .look a{ float:right; padding:6px 20px; background:#FF6400; border-radius:5px; color:#FFF;}
+.vip .more{ padding:15px 90px; border:#526DA0 2px solid; font-size:20px; color:#526DA0; border-radius:5px;  display:inline-block; font-family:"微软雅黑"  }
+.vip .more:hover{color:#ff6400;}

@@ -1,0 +1,14 @@
+/* CSS Document */
+.c-bg{width:100%; overflow:hidden; background:#526DA0;}
+.center{width:1200px; overflow:hidden;  margin:0 auto;}
+.center .location{ height:50px; line-height:50px; color:#FFF;}
+.center a{color:#FFF;}
+.center .content img{float:left; margin-bottom:22px;}
+.center .content .article{ float:right; width:276px; height:340px; background:#fff; padding:30px 17px; color:#666666;}
+.article h3{ font-size:25px; color:#333333; font-family:"微软雅黑"; height:42px;}
+.article .jieshao{ height:105px; line-height:20px; }
+.article .time{ height:40px;}
+.article .price{ height:60px;}
+.article .price span{ font-size:24px; font-weight:bold; font-family:"微软雅黑"; color:#FF6400;  }
+.article .number{height:40px; }
+.article .btn a{  padding:15px 40px; background:#ff6400; border-radius:5px; display:inline-block; margin-right:5px;}
